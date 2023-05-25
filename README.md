@@ -10,5 +10,6 @@ All the files are related to NanoScribe, including GWL scripts auto-generation p
                adjustable params.: emin & emax (to facilitate the parameters sweep of pillars).
   ### archimedian_spiral: generate a matrix of archimedian spirals
                note: a and b are parameters for the archimedian spiral (more see [wiki page](https://en.wikipedia.org/wiki/Archimedean_spiral) for achimedian spiral)
-  ### 
+  ### circle Array: a matrix of circles
+  ### pillars with pause: It is as it reads
   
